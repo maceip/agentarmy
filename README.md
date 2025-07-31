@@ -3,6 +3,7 @@
 </div>
 
 # Agent Army 🤖
+<img width="825" height="117" alt="Screenshot 2025-07-31 at 5 20 31 AM" src="https://github.com/user-attachments/assets/f5d337b2-b347-4ea1-a0f7-a08881c9c26b" />
 
 Specialized Claude Code sub-agents for modern full-stack development. These agents are designed to be used proactively when working on commits that involve their areas of expertise.
 
